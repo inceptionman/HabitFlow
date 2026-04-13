@@ -35,3 +35,9 @@ python manage.py createsuperuser
 ```
 
 - Abre tu navegador y ve a "/admin/" 
+
+- Para hacer migraciones. Ejecuta 
+
+```bash
+python manage.py migrate
+```
